@@ -1,5 +1,7 @@
 # Excerpt of vulnerabilities I found in the last years
 
+Over the past years I’ve found several vulnerabilities on several products/vendors for example, HP, ASUS, BioStar, Telekom, Adobe, Siemens, GDATA, Avast, Comodo, Synology, Wacom and many more. These list is just a short list because not all vulnerabilities have got an CVE number:
+
 ## 2018
 
 * **HP Network Automation**:
