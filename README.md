@@ -55,4 +55,7 @@ Over the past years I’ve found several vulnerabilities on several products/ven
 * **GDATA Total Security**:
    - [CVE-2023-27347](https://www.zerodayinitiative.com/advisories/ZDI-23-379/) - Local Privilege Escalation (LPE)
 
+* **VIPRE Antivirus Plus**:
+   - [CVE-2023-32175](https://www.zerodayinitiative.com/advisories/ZDI-23-755/) - Local Privilege Escalation (LPE)
+
 PS: This idea is shameless stolen from my colleague [frycos](https://github.com/Frycos/Frycos) 😄.
